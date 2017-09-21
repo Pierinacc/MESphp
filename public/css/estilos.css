@@ -1,0 +1,25 @@
+#tablaBlackList thead{
+    color: #fffbf6 !important;
+    background-color: #428bca !important;
+    border-color: #ddd !important;
+}
+
+#tablaBlackList tfoot{
+    color: #fffbf6 !important;
+    background-color: #428bca !important;
+    border-color: #ddd !important;   
+}
+
+.login-panel {
+    margin-top: 0% !important;
+}
+
+.panel-default>.panel-heading {
+    color: #fffbf6 !important;
+    background-color: #428bca !important;
+    border-color: #ddd !important;
+}
+
+.tab-content{
+   margin-top: 5%;
+}
