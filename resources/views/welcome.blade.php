@@ -220,7 +220,7 @@
 
                     <div class="loginform">
 
-                        <form id="login" action="loginprocess" method="post">
+                        <form id="login" action="{{url('dashboard')}}" method="get">
                             <p>
                                 <label for="username" class="bebas">Usuario:</label>
                                 <input type="text" id="username" name="username" class="radius2" style="background: #e6e6e6; color:#000 !important">
